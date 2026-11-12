@@ -1,0 +1,38 @@
+"ROMASHKA" COMPANY — CUSTOMER HANDBOOK
+======================================
+
+1. ABOUT THE COMPANY
+"Romashka" is a Russian manufacturer of home appliances. Founded in 2005.
+Product line: kettles, multi-cookers, vacuum cleaners, irons, blenders.
+Headquarters: Moscow.
+
+2. WARRANTY
+All "Romashka" products come with a 24-month warranty from the purchase date.
+The warranty covers manufacturing defects.
+The warranty does NOT cover mechanical damage, signs of tampering, or misuse.
+A receipt and warranty card are required for a warranty claim.
+
+3. RETURNS
+Items in good condition may be returned within 14 days of purchase,
+provided the receipt and original packaging are preserved. Items must show
+no signs of use. Refunds are issued to the customer's card within 10
+business days after approval of the request.
+
+4. DELIVERY
+Delivery within Moscow is free for orders over 5,000 RUB. Moscow delivery
+is handled by courier within 1-2 business days. Regional delivery is
+handled by partner logistics companies within 3-7 business days. Regional
+shipping cost is calculated individually at checkout.
+
+5. PAYMENT
+We accept bank cards (Visa, MasterCard, MIR), cash on delivery,
+and the Faster Payments System (SBP).
+
+6. SUPPORT
+Hotline: 8-800-555-35-35 (free within Russia).
+Hours: daily, 9:00-21:00 Moscow time.
+Email: support@romashka.example
+
+7. LEGAL
+LLC "Romashka", Tax ID 7701234567, Reg. ID 770101001.
+Legal address: 1 Primernaya St., Office 100, Moscow.
